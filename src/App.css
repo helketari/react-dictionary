@@ -2,9 +2,18 @@
   margin-top: 15px;
 }
 
-.App-header {
+.container {
   font-family: cursive;
-  font-size: 48px;
   color: pink;
   text-align: center;
+}
+
+.App-header {
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.GitHub-link {
+  text-align: center;
+  margin: 30px 0;
 }

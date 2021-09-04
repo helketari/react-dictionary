@@ -9,7 +9,16 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="GitHub-link">Coded by Jessica Brosvic</footer>
+        <footer className="GitHub-link">
+          <a
+            href="https://github.com/helketari/react-dictionary"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Open-source code
+          </a>{" "}
+          by Jessica Brosvic
+        </footer>
       </div>
     </div>
   );

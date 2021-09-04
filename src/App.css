@@ -4,7 +4,7 @@
 
 .container {
   font-family: cursive;
-  color: pink;
+  color: #c9356c;
   text-align: center;
 }
 
@@ -16,4 +16,12 @@
 .GitHub-link {
   text-align: center;
   margin: 30px 0;
+}
+
+a {
+  color: #ff347f;
+}
+
+a:hover {
+  color: #f48db4;
 }

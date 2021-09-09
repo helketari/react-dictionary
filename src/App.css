@@ -1,5 +1,5 @@
 .App {
-  margin-top: 15px;
+  background: lightseagreen;
 }
 
 .container {
@@ -9,6 +9,8 @@
 
 .App-header {
   font-size: 48px;
+  text-align: center;
+  padding-top: 15px;
   margin-bottom: 30px;
 }
 

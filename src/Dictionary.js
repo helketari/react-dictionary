@@ -52,6 +52,5 @@ export default function Dicitionary(props) {
     );
   } else {
     load();
-    return "Loading...";
   }
 }

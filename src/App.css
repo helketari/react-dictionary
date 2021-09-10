@@ -1,5 +1,10 @@
-.App {
+body {
   background: lightseagreen;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .container {

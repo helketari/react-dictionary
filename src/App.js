@@ -1,5 +1,4 @@
 import React from "react";
-import BackgroundImage from "./Background.jpeg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 

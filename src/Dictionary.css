@@ -1,14 +1,14 @@
 h1 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin-bottom: 15px;
 }
 
 section {
-  background: pink;
+  background: #f7f2ca;
+  border: 2px solid #5846a3;
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0px, 5px, 15px rgba(0, 0, 0, 0.7);
   margin: 20px 0;
 }
 
@@ -16,8 +16,8 @@ input {
   width: 100%;
   border-radius: 5px;
   padding: 4px 2px;
-  color: #c9356c;
-  border: 1px solid #c9356c;
+  color: #7c67d1;
+  border: 1px solid #7c67d1;
 }
 
 .hint {

@@ -1,5 +1,7 @@
 body {
-  background: lightseagreen;
+  background-image: url("./Background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .App {
@@ -9,7 +11,7 @@ body {
 
 .container {
   font-family: cursive;
-  color: #c9356c;
+  color: #7c67d3;
 }
 
 .App-header {
@@ -17,17 +19,23 @@ body {
   text-align: center;
   padding-top: 15px;
   margin-bottom: 30px;
+  color: white;
 }
 
 .GitHub-link {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
   text-align: center;
   margin: 30px 0;
 }
 
 a {
-  color: #ff347f;
+  color: #5846a3;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 a:hover {
-  color: #f48db4;
+  color: white;
 }

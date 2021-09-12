@@ -56,7 +56,7 @@ export default function Dicitionary(props) {
             />
           </form>
           <div className="hint">
-            suggested words: elf, fairy, goblin, knight...
+            suggested words: elf, troll, goblin, knight...
           </div>
         </section>
         <Results results={results} />
